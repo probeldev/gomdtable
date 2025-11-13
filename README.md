@@ -1,5 +1,7 @@
 # Go Markdown Table
 
+Package gomdtable package is needed for generating Markdown tables.
+
 ## Install
 
 ```bash
